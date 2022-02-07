@@ -1,0 +1,17 @@
+.clockdiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.minutes-color {
+    border-radius: 5px;
+    margin: 4px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 200%;
+}
+.Colon-color {
+    color: #0095f6;
+}
